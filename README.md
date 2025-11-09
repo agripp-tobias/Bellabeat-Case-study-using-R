@@ -31,7 +31,7 @@ High Sedentary Time: The average user recorded approximately 7,638 steps per day
 
 Steps Drive Calories: A strong positive correlation exists between total steps and calories burned, confirming that greater activity directly leads to higher calorie expenditure.
 Weekend Activity Peak: Users are most active on Saturdays and least active on Sundays.
-![Average Steps by Day](Screenshot 2025-10-12 162419.png) 
+![Average Steps: Weekday vs Weekend](Screenshot 2025-11-09 025234.png)
 
 Activity vs. Sleep Trade-off: There is a slight negative correlation between daily steps and sleeping hours—as users sleep more, total steps tend to decrease.
 
