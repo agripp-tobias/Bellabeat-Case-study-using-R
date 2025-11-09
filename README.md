@@ -22,6 +22,7 @@ The primary data source is FitBit Fitness Tracker Data, a public dataset availab
 Small Sample Size: Data is from only 33 distinct users.
 
 Demographic Gap: The dataset lacks demographic information (e.g., gender and age), which is crucial given Bellabeat's target audience of women.
+
 Outdated: The data was collected in 2016 and may not reflect current fitness trends.
 
 ## Key Findings and Insights 
